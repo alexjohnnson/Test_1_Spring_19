@@ -1,0 +1,15 @@
+h1 {
+    font-family: georgia;
+    color: #961f2f;
+    font-size: 36px;
+    text-align: center;
+}
+a {
+    font-family: arial;
+    color: #000;
+    font-size: 24px;
+    text-align: center;
+}
+a:hover {
+    background: #961f2f;
+}
